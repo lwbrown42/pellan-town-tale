@@ -1,0 +1,4 @@
+name: necromancer
+max_health: 20
+evasion: 21
+armor: 4

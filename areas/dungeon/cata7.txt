@@ -1,0 +1,10 @@
+name: Necromancer's Domain
+description: The room is large and gothic. There are candles and skulls everywhere. There is a man in a crimson robe standing in front of an altar, draped in crimson cloth. 
+north: none
+east: none
+south: areas/dungeon/cata6.txt
+west: none
+up: none
+down: none
+npc: none
+enemy: necromancer

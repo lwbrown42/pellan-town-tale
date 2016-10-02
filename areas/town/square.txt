@@ -1,0 +1,10 @@
+name: Town Square
+description: The town square shows signs that it was once a busy place. Stalls where merchants would sell good are now abandoned. Footprints and wheel tracks seem old and faded, save for a few new paths. To the north lies a large church, its steeple climbing towards the gray sky. To the east, a building with recognizable equipment scattered around, and a sign that reads "Smithy". To the west, a small shop can be seen, with a sign reading "Parson's General Goods".
+north: areas/town/church.txt
+east: areas/town/smith.txt
+south: areas/town/inside.txt
+west: areas/town/shop.txt
+up: none
+down: none
+npc: none
+enemy: none

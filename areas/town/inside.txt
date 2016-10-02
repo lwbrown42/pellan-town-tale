@@ -1,9 +1,9 @@
 name: Inside the Gate
-description: You are just inside of the gate. To the north you can see the town square. Immediately to the east you see a small house  with smoke coming out of the chimney. A sign above the door reads "Pellan Inn". To the west is a small dirt road.
+description: You are just inside of the gate. To the north you can see the town square. Immediately to the west you see a small house  with smoke coming out of the chimney. A sign above the door reads "Pellan Inn". To the east is a small dirt road.
 north: areas/town/square.txt
-east: areas/town/inn.txt
+east: areas/town/path.txt
 south: areas/town/gate.txt
-west: areas/town/path1.txt
+west: areas/town/inn.txt
 up: none
 down: none
 npc: none

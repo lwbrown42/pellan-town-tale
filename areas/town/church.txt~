@@ -1,0 +1,10 @@
+name: Inside the Church
+description: You're in a church.
+north: none
+east: none
+south: areas/town/square.txt
+west: none
+up: none
+down: none
+npc: priest
+enemy: none

@@ -1,0 +1,10 @@
+name: Parson's General Goods
+description: 
+north: none
+east: areas/town/square.txt
+south: none
+west: none
+up: none
+down: none
+npc: none
+enemy: none

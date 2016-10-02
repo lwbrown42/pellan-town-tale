@@ -1,0 +1,10 @@
+name: Inside the Church
+description: You're in a large church. There are rows of pews and a modest altar at the far end of the room. In front of the altar is an old man on his knees, praying. As you enter the room, he looks back at you for a moment then goes back to praying.
+north: none
+east: none
+south: areas/town/square.txt
+west: none
+up: none
+down: none
+npc: priest
+enemy: none

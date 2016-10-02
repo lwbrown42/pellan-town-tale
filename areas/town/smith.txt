@@ -1,0 +1,10 @@
+name: Smithy
+description: This is a standard blacksmith's shop, but it seems off. The furnace has been out for what seems like ages, the last few coals barely giving off any glow. There is a slight layer of dust. There is no one here. To the west is the door you entered through.
+north: none
+east: none
+south: none
+west: areas/town/square.txt
+up: none
+down: none
+npc: none
+enemy: none

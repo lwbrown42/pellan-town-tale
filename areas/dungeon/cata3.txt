@@ -1,0 +1,10 @@
+name: Catacombs
+description: A dead end. There are tombs in the walls and skulls on the floor. Dust and cobwebs are everywhere.
+north: none
+east: areas/dungeon/cata2.txt
+south: none
+west: none
+up: none
+down: none
+npc: none
+enemy: skeleton

@@ -1,0 +1,10 @@
+name: Parson's General Goods
+description: As you enter the shop, you immediately notice that it seems abandoned. A decent layer of dust has settled on all of the goods on the shelves, and there's no noticable sign that anyone has done anything in here for awhile. To the east is the door you entered through.
+north: none
+east: areas/town/square.txt
+south: none
+west: none
+up: none
+down: none
+npc: none
+enemy: none

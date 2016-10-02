@@ -1,6 +1,6 @@
 name: Town Gate
 description: You arrive just south of the gate to a small town. A simple dirt road leads into the town, and past the gate you can see a few buildings and fewer people.
-north: /areas/town/inside.txt
+north: areas/town/inside.txt
 east: none
 south: none
 west: none

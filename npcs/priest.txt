@@ -1,0 +1,6 @@
+name: priest
+description: The old, holy man is wearing the standard black clothes with a white collar. He looks upset.
+actions: examine
+eat: He's too holy for your palate.
+smell: Smells like communion wine and candles.
+talk: "Oh... You're new here. Perhaps you can help us with our problem. You're not the first stranger to pass through this town. But hopefully you can help us with our little predicament."      He takes a deep breath.      "The last stranger that wandered through here had a peculiar interest in our graveyard, specifically the catacombs. One day he went in there, and never came back. Ever since, people have just been disappearing. People are afraid to leave their homes and many have left the town. If you can discover what is going on down there, we'd be forever grateful."

@@ -1,0 +1,10 @@
+name: Catacombs Main Hall
+description:
+north: areas/dungeon/cata6.txt
+east: areas/dungeon/cata4.txt
+south: areas/dungeon/cata1.txt
+west: areas/dungeon/cata3.txt
+up: none
+down: none
+npc: none
+enemy: none

@@ -1,0 +1,8 @@
+name: Graveyard
+description: The ground is littered with tombstones arranged in rows. In the center is the entrance that leads -down- into the catacombs. The scene sends a shiver down your spine.
+north: none
+east: areas/town/graveyard_path.txt
+west: none
+down: areas/dungeon/cata1.txt
+npc: none
+enemy: none

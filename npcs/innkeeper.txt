@@ -1,0 +1,6 @@
+name: innkeeper
+description: A gruff looking old man. He doesn't look happy you're hear.
+actions: examine
+eat: You can't eat the innkeeper.
+smell: You could smell him when you came in.
+talk: "No vacancies here. Or anywhere in Pellan Town, stranger."

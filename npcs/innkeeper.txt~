@@ -1,0 +1,6 @@
+name: woman
+description: This old woman has seen better days.
+actions: examine
+eat: The woman pushes you away before you can take a bite.
+smell: The woman eyes you while you take a whiff.
+talk: "Lovely weather we've been having."

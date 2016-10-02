@@ -1,0 +1,10 @@
+name: Pellan Inn
+description: As you enter the door, the innkeeper eyes you down. He gives you a very clear glare. The inn is small and dirty, but feels homely. There is a fire in the fireplace, with a few comfortable looking chairs around the room, most facing the fireplace. To the east is the door back outside.
+north: none
+east: areas/town/inside.txt
+south: none
+west: none
+up: none
+down: none
+npc: innkeeper
+enemy: none

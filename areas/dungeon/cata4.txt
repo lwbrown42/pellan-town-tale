@@ -1,0 +1,10 @@
+name: Catacombs
+description: Another hall in the catacombs. To the west is the main hall of the catacombs. To the north is what looks like another room.
+north: areas/dungeon/cata5.txt
+east: none
+south: none
+west: areas/dungeon/cata2.txt
+up: none
+down: none
+npc: none
+enemy: skeleton

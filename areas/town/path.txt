@@ -1,0 +1,10 @@
+name: Path
+description: This is a dirt path that is leading to the outskirts of town. You can see a small building in the distance.
+north: none
+south: none
+east: areas/town/graveyard_path.txt
+west: areas/town/inside.txt
+up: none
+down: none
+enemy: none
+npc: none

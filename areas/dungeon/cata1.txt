@@ -1,0 +1,10 @@
+name: Catacombs Entrance
+description: The entrance to the catacombs is larger than the entrance would lead you to believe. There is a fine layer of dust and cobwebs around everything. Eery noises are coming from somewhere, but the sound reverberates off the walls, disorienting you and keeping you from pinpointing where it's coming from. There is a path to the north.
+north: areas/dungeon/cata2.txt
+east: none
+south: none
+west: none
+up: areas/town/graveyard.txt
+down: none
+npc: none
+enemy: none

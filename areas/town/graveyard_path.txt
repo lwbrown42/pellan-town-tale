@@ -1,0 +1,9 @@
+name: Graveyard Path
+description: The dirt path leads to the east towards the graveyard and west back towards town. This road does not seem to be well used.
+north: none
+east: areas/town/graveyard.txt
+west: areas/town/path.txt
+up: none
+down: none
+npc: none
+enemy: none

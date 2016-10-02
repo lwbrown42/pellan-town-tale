@@ -21,6 +21,10 @@ def playerTurn():
             currentArea.move('east')
         elif command in ['west', 'w']:
             currentArea.move('west')
+        elif command == 'up':
+            currentArea.move('up')
+        elif command == 'down':
+            currentArea.move('down')
         elif command == 'examine':
             currentArea.examine()
         elif command == "status":

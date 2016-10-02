@@ -10,7 +10,7 @@ class Area:
     
 
     def __init__(self):
-        self._load_zone("area1/area1.txt")
+        self._load_zone("areas/town/gate.txt")
        
     def _load_zone(self, zonepath):
         self.npcList = []
@@ -69,6 +69,10 @@ class Area:
                 self.previous = 'north'
             elif direction == 'east':
                 self.previous = 'west'
+            elif direction == 'up':
+                self.previous = 'down'
+            elif direction == 'down':
+                self.previous = 'up'
             else:
                 self.previous = 'east'
         else:

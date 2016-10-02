@@ -1,0 +1,10 @@
+name: Catacombs Hall
+description: A hallway through the catacombs. To the north is what appears to be a large room. To the south is the main hall.
+north: areas/dungeon/cata7.txt
+east: none
+south: areas/dungeon/cata2.txt
+west: none
+up: none
+down: none
+npc: none
+enemy: skeleton

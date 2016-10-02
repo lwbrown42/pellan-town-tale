@@ -1,0 +1,10 @@
+name: Catacombs
+description: A dead end. This room has the same dust and cobwebs as the rest of the catacombs. To the south is the hallways you came through.
+north: none
+east: none
+south: areas/dungeon/cata4.txt
+west: none
+up: none
+down: none
+npc: none
+enemy: skeleton

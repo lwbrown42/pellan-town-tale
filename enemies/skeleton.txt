@@ -1,0 +1,4 @@
+name: skeleton
+max_health: 8
+evasion: 4
+armor: 6

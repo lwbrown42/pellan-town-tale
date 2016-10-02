@@ -1,0 +1,8 @@
+name: Path
+description: This is a dirt path that is leading to the outskirts of town. You can see a small building in the distance.
+north: none
+south: none
+east: n
+west: areas/town/inside.txt
+enemies: none
+npcs: none
