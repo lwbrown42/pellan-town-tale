@@ -1,0 +1,10 @@
+name: Area Test 1
+description: This is a test area. To the north, south, east, and west are more test areas.
+north: area1/area2.txt
+east: area1/area3.txt
+south: area1/area4.txt
+west: area1/area5.txt
+up: none
+down: none
+npc: none
+enemy: none

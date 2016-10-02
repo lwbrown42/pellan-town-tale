@@ -1,0 +1,4 @@
+name: goblin
+max_health: 5
+evasion: 2
+armor: 5

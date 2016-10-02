@@ -1,0 +1,10 @@
+name: Area Test 3
+description: This is a test area. There is only a path that leads west.
+north: none
+east: none
+south: none
+west: area1/area1.txt
+up: none
+down: none
+npc: none
+enemy: goblin

@@ -1,0 +1,10 @@
+name: Area Test 2
+description: This is a test area. There is only a path that leads south.
+north: none
+east: none
+south: area1/area1.txt
+west: none
+up: none
+down: none
+npc: none
+enemy: none
